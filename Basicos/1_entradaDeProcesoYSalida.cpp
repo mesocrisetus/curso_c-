@@ -16,7 +16,7 @@ int main()
     cout<<"ingrese un numero"<<endl;
     cin>>num;
     res = num * 2;
-    cout<<"El doble del numero es: "<<res<<endl;
+    cout<<"El doble de "<<num<<" es: "<<res<<endl;
 
     return 0;
 }
